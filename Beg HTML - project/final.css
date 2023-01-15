@@ -1,0 +1,111 @@
+			body {
+				margin: 25px 150px 5px 150px;
+				background-color: #081830;
+				font-family: verdana, arial, sans-serif;}
+			body {
+				background-image: url("Hybrid-plant.jpeg");
+				background-repeat: no-repeat;
+				background-position: 50% 50%;
+				color: #665544;
+				padding: 20px;}
+
+			header { 
+				background-image: url("table_spread.jpeg");}
+
+			h1, body, footer {
+				text-align: center;
+				color: #F2FAD7;}
+
+			h1 {
+				font-family: sans-serif;
+				font-size: 75px;
+				display: inline;
+				text-align: left;
+				margin: 40px auto auto 50px;
+				font-family: sans serif;}
+			
+			h3, h4, h5 {
+				margin: 20px 5px 20px 5px;
+				padding: 7px;
+				text-align: center;
+			}
+
+			article {
+				margin: 10px auto 10px auto;
+			}
+
+			nav {
+				font-size: 20px;
+				font-family: cursive;
+				display: inline;
+				text-align: center;
+				margin: 20px;}
+
+			.copyright {
+				text-align: left;
+				margin: 10px auto 20px 5px;}
+
+			footer {
+				margin-top: 100px;
+				height: 20px;
+				vertical-align: bottom;
+			}
+			nav, {
+				height: 10px;}
+			nav li {
+				display: inline;
+				margin-right: 15px;}
+			nav li a:hover {color: teal;} nav li a { 				
+				color: #CA69FA;} nav li a.current {
+				color: teal;}
+
+			.hours {
+				width: 300px;
+				height: 150px;
+				text-align: center;}
+
+
+			.giftcards {
+				font-size: 20px;
+				text-align: center;
+				margin: 50px auto 50px auto;
+				padding: 35px;
+			}
+
+			.organic {
+				font-size: 30px;
+				text-align: center;
+				margin: 100px;
+			}
+
+			img {
+				float: right;
+				max-height: auto;
+				max-width: 100%;
+				margin: 40px 40px 100px 40px;
+			}
+
+
+			hr {
+				margin-top: 100px;
+			}
+			.table {
+				float: right;
+			}
+
+			.wrapper {
+				display: inline;
+			}
+
+			.appetizers, .entrees, .desserts, .cocktails {
+				text-align: left;
+				margin: 40px auto 40px auto;
+			}
+
+			.join {
+				text-align: left;
+
+			}
+
+			div {
+				style="background-image: url('images/Hybrid-plant.jpeg');}
